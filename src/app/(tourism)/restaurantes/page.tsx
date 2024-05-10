@@ -127,10 +127,10 @@ const RestaurantsPage = () => {
             <p className="mt-6 text-lg leading-8 text-gray-600">
               Descubre los sabores de San Brandon, donde cada restaurante es una
               puerta a nuevas experiencias culinarias. Desde el calor hogareño
-              de "El Rinconcito de San Brandon" hasta la frescura oceánica de
-              "Mariscos El Faro", nuestra ciudad se enorgullece de una
-              diversidad gastronómica que promete deleitar a todos los
-              paladares.
+              de &quot;El Rinconcito de San Brandon&quot; hasta la frescura
+              oceánica de &quot;Mariscos El Faro&quot;, nuestra ciudad se
+              enorgullece de una diversidad gastronómica que promete deleitar a
+              todos los paladares.
             </p>
           </div>
         </div>

@@ -487,10 +487,12 @@ export default function Home() {
             {pntLinks.map((pntLink) => (
               <li key={pntLink.href}>
                 <Link href={pntLink.href} target="_blank">
-                  <img
+                  <Image
                     className="aspect-[3/2] w-full rounded-2xl object-cover"
                     src={pntLink.imageSrc}
                     alt=""
+                    width={400}
+                    height={267}
                   />
                 </Link>
               </li>
